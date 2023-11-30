@@ -1,2 +1,1 @@
-# Private-Cloud-Storage-Proxy
- Private Cloud Storage Poxy
+# Private Cloud Storage Poxy 
